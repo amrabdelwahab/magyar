@@ -1,221 +1,219 @@
 A 
-alma
-Anya
-ananász
+- Alma
+- Anya
+- Ananász
 
 Á 
-álom
-Álmos
+- Álom
+- Álmos
 
 B 
-- barack
-- bazsalikom
-- barna
-- biztos
-- bor
-- baj
-- bocsánat
-- Borjú = Kalf
+- Barack
+- Bazsalikom
+- Barna
+- Biztos
+- Bor
+- Baj
+- Bocsánat
+- Borjú = Calf
 - Bárány = Lamp
-- burgonya
-- bab
+- Burgonya
+- Bab
 
 C 
 - Cica
 - Cicamica
-- cékla
+- Cékla
 
 Cs
-- csomópont
-- csirke
-- csinos = pretty
-- csak 
+- Csomópont
+- Csirke
+- Csinos = pretty
+- Csak 
 
 D 
-- doboz
-- déli
+- Doboz
+- Déli
 - Duna
-- dob
-- de
+- Dob
+- De
  
 Dz
 
-
 Dzs
-- dzsungel
-- dzsedi
+- Dzsungel
+- Dzsedi
 
 E 
 - Ez
-- este
-- elvitel
+- Este
+- Elvitel
 - Egy = a / one
 - Egyiptom
-- eb
-- ebéd
-
+- Eb
+- Ebéd
 
 É
 - Én
 - És
 - Értem
-- érdekes
-- étterem
-- éjszaka
-- édes/ édesem
-- éhes
+- Érdekes
+- Étterem
+- Éjszaka
+- Édes
+- Édesem
+- Éhes
 
 F 
-- fáradt/ f
-- forralt (forró)
-- fokhagyma
-- fekete
-- fōzelék
-- fagyott
+- Fáradt
+- Forralt 
+- Forró
+- Fokhagyma
+- Fekete
+- Fōzelék
+- Fagyott
 - Falafel :D:D
-- fidesz :D
+- Fidesz :D
 
 G 
-- gulyás
-- gomba
-- garnéla
+- Gulyás
+- Gomba
+- Garnéla
  
 Gy  
-- gyógyszertár = Pharmacy
-- gyömbér 
-- gyors
+- Gyógyszertár = Pharmacy
+- Gyömbér 
+- Gyors
 
 H 
 - Hogy
 - Hol
 - Hal
-- hagyma
-- három = 3
-- harminc = 30
+- Hagyma
+- Három = 3
+- Harminc = 30
 
 I 
-- italok
-- itt
-- is
-- igen
+- Italok
+- Itt
+- Is
+- Igen
 
 Í 
 - Írni
 - Ír ember
 
 J
-- japán
-- jó
-- jól
-- jég
+- Japán
+- Jó
+- Jól
+- Jég
 
 K
 - Kapu
-- kakukkfű
-- kutya
-- kenyér
-- kifli
-- kaja
+- Kakukkfű
+- Kutya
+- Kenyér
+- Kifli
+- Kaja
+- Király
 
 L 
-- lámpa
-- ló
-- liszt
-- leves
-- lé
+- Lámpa
+- Ló
+- Liszt
+- Leves
+- Lé
 
 Ly 
-- lyuk
-- Király 
+- Lyuk 
 
 M 
-- macska
-- ma
-- minden (all)
-- mindig (always)
-- mennyi
-- menjünk
-- más
-- még
-- marha
-- málna
-- mūanyag
+- Macska
+- Ma
+- Minden = all
+- Mindig = always
+- Mennyi
+- Menjünk
+- Más
+- Még
+- Marha
+- Málna
+- Mūanyag
 
 N 
-- narancs
+- Narancs
 - Nagy
-- nem
-- nap
+- Nem
+- Nap
 
 Ny  
-- nyár
-- nyolc
-
----- nekem nyolc ! ===> whatever 
+- Nyár
+- Nyolc
+- "Nekem nyolc!" = Whatever!/Any of them
 
 O
-- olasz
-- oldalas
--  
+- Olasz
+- Oldalas
+- Ostór
 
 Ó 
-- óra 
+- Óra 
 
-o 
+Ö
 - Öröm = happiness 
-- örülök
-- ostór
+- Örülök
 
 Ő
 - Őrölt 
 - Őrült = crazy
 
 P 
-- paradicsom
-- persze
-- pulyka
-- papír
-- patika
-- paprika
+- Paradicsom
+- Persze
+- Pulyka
+- Papír
+- Patika
+- Paprika
  
 R 
-- rendŐrség
-- rendben
-- répa = carrot
-- reggel
+- Rendőrség
+- Rendben
+- Répa = carrot
+- Reggel
 
 S 
-- sajt
-- spenótos
-- savanyú
-- segg = ass
-- sertés
-- sör
-- sonka
+- Sajt
+- Spenótos
+- Savanyú
+- Segg = ass
+- Sertés
+- Sör
+- Sonka
 
 Sz  
-- szabad / szabadság
-- szilva
-- szép
+- Szabad
+- Szabadság
+- Szilva
+- Szép
 
 T 
-- tarja
-- tarkony
-- tej
-- tejföl
-- tál
+- Tarja
+- Tarkony
+- Tej
+- Tejföl
+- Tál
 
 Ty  
-- tyúk
+- Tyúk
 
 U 
-- unatkozom / unat
-- uborka 
-- utca
+- Unatkozom
+- Uborka
+- Utca
 
-Ú 
-- út
-- 
+Ú
+- Út
 
 Ü 
 - Üveg
@@ -224,16 +222,16 @@ U
 - Űrhajó = space ship
 
 V 
-- villamos
-- viszlát
-- viszontlátásra
-- vidám = happy 
+- Villamos
+- Viszlát
+- Viszontlátásra
+- Vidám = happy 
  
 Z
-- zöldség
-- zöld
-- zebra
+- Zöldség
+- Zöld
+- Zebra
 
 Zs
 - Zsír
-- zsemle/zsömle
+- Zsemle/Zsömle
